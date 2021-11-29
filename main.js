@@ -37,7 +37,7 @@ const swiper = new Swiper('.swiper-container', {
   pagination: {
     el: '.swiper-pagination'
   },
-  mousewheel: true,
+  //mousewheel: true,
   keyboard: true,
   breakpoints: {
     767: {

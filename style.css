@@ -134,7 +134,7 @@ body {
   top: 0;
   left: 0;
   z-index: 100;
-  background-color: var(--body-color);
+  background-color: #6A9FB9;
   width: 100%;
 }
 
@@ -738,6 +738,7 @@ font-face {
   width:20%;
   margin-left: 20px;
   margin-top: 10px;
+  border-radius: 10px;
 }
 
 .logos_titulos{
