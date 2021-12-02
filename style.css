@@ -272,9 +272,16 @@ nav.show div.icon-close {
 }
 
 /*====  HOME ============================ */
+
+.textsub{
+  font: 400 1rem var(--body-font);
+}
+
 #home {
   overflow: hidden;
+  background: url(assets/cloud.jpg) 0 0 no-repeat fixed;
 }
+
 
 #home .container {
   margin: 0;
