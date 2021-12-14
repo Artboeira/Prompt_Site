@@ -134,7 +134,7 @@ body {
   top: 0;
   left: 0;
   z-index: 100;
-  background-color: #6A9FB9;
+  background-color: #ffffff;
   width: 100%;
 }
 
@@ -273,9 +273,7 @@ nav.show div.icon-close {
 
 /*====  HOME ============================ */
 
-.textsub{
-  font: 400 1rem var(--body-font);
-}
+
 
 #home {
   overflow: hidden;
